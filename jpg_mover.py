@@ -1,4 +1,4 @@
-# Task 3: Move all JPG files from the source folder to the destination folder
+
 
 # replace with your own folder paths
 source_folder = "C:\\..."  
