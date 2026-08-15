@@ -1,6 +1,0 @@
-sarah.jones@company.com
-john_doe123@gmail.com
-help@school.edu
-admin@my-website.org.
-promo@gmail.com
-first.last@company.com
