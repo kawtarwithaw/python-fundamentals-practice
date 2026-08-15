@@ -1,5 +1,5 @@
 #stock Portfolio Tracker
-prices={"AAPL": 180, "TSLA": 250, "GOOGL": 120, "AMZN": 100, "MSFT": 150}
+prices={"AAPL": 180, "TSLA": 250, "GOOGL": 120, "AMZN": 100, "MSFT": 150} # Hardcoded stock prices — edit this dictionary to add/change stocks or prices
 
 sharevalues=input("Enter the number of shares for each stock (comma-separated): ")
 sharenames=input("Enter the names of each stock in the same order using capital letters (comma-separated): ")
