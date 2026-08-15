@@ -6,7 +6,7 @@ These are learning exercises, not production tools — built and debugged from s
 
 ## Scripts
 
-### 🎯 Hangman Game
+## Hangman Game
 A command-line hangman game. Guess one letter at a time; the game tracks correct/incorrect guesses and reveals letter positions as you find them.
 
 **Run:**
@@ -18,7 +18,7 @@ python hangman.py
 
 ---
 
-### 📈 Stock Portfolio Tracker
+## Stock Portfolio Tracker
 Calculates total investment value based on stock names and share counts entered by the user, using a hardcoded price dictionary.
 
 **Run:**
@@ -31,7 +31,7 @@ Then enter stock tickers and share counts when prompted (comma-separated, e.g. `
 
 ---
 
-### 🗂️ JPG File Mover
+## JPG File Mover
 Moves all `.jpg` files from one folder into a separate destination folder.
 
 **Setup:** edit the `source_folder` and `destination_folder` variables near the top of the script to point to your own folders before running.
@@ -45,7 +45,7 @@ python jpg_mover.py
 
 ---
 
-### 📧 Email Extractor
+## Email Extractor
 Extracts all email addresses from a `.txt` file and saves them to a new file, using a regex pattern.
 
 **Run:**
